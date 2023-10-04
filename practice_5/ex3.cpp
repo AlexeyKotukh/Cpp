@@ -1,4 +1,4 @@
-﻿//Kotukh Oleksiy 14v(2)
+﻿//Kotukh Oleksiy 14v(2v)
 #include <iostream>
 #include <cmath>
 using namespace std;
