@@ -15,5 +15,4 @@ int main() {
 
     cout << "Sum of squares of numbers: " << sum << "\n";
 
-    return 0;
 }
